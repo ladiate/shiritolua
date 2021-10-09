@@ -1,13 +1,13 @@
 return {
     -- Goo API アプリケーション ID
-    yomiApiId = '',
+    yomiApiId = '6b0052011dad43c795dc0be4a69aaf5e92ecaab40e095199c52b16ed314c5b3f',
 
     -- Discord トークン、Bot ページより取得
-    discordBotToken = '',
+    discordBotToken = 'ODQ4NDgzNjc0NjYzOTQ0MTky.YLNSAA.DObcVvJTVEDqB-Fe4iqtY8gbq7I',
 
     -- 反応するチャンネル ID
     reactChannels = {
-        ''
+        'bot作成'
     },
 
     -- 制限文節数
